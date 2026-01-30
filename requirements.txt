@@ -1,4 +1,4 @@
-vpandas
+pandas
 numpy
 scikit-learn
 joblib
